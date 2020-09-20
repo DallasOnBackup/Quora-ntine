@@ -1,9 +1,9 @@
 ## Quorantine
 Authors		: @DarkGuy10<br>
-Start Date  : <br><br>
-End Date    : <br><br>
-Language    : Javascript [Vanilla JS]<br><br>
-Version     : 0.0 [Beta]<br><br>
+Start Date  : <br>
+End Date    : <br>
+Language    : Javascript [Vanilla JS]<br>
+Version     : 0.0 [Beta]<br>
 <br>
 ### Description:<br>
 Creates a workaround for adding group chats to Quora.<br>
