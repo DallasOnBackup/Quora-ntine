@@ -28,6 +28,7 @@ boxFooter.classList.add('box_footer');
 groupMsgBox.appendChild(boxFooter);
 var messageInput = document.createElement('textarea');
 messageInput.classList.add('message_input');
+messageInput.setAttribute('place-holder', "Your message goes here...");
 var sendBtn = document.createElement('button');
 sendBtn.classList.add('send_button');
 sendBtn.innerText = "Send";
