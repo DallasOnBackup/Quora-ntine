@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.quora.com/*"], 
-      "js": ["jquery-3.5.1.min.js", "Imagify.js"],
+      "js": ["jquery-3.5.1.min.js", "Imagify.js", "Groupify.js"],
       "css": ["Extras.css"]
     }
   ]
